@@ -1,1 +1,1 @@
-# -yclicPeptideDesign
+# CyclicPeptideDesign
